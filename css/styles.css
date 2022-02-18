@@ -1,0 +1,25 @@
+
+  body {
+      background-color:#EAF6F6;
+
+  }
+  hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color:lightblue;
+    border-width:10px;
+    width:6%;
+  }
+    /* background-color:white;
+    border:dotted;
+    color:white;
+    border-style: none none dotted;
+    height:2px;
+    width:80%;
+    line-style:dotted; */
+    iframe {
+        border-width: 2px;
+        border-style: inset;
+        border-color: initial;
+        border-image: initial;
+    }
