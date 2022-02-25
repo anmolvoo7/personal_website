@@ -1,3 +1,4 @@
+/******************************TAG SELECTORS****************************/
 
   body {
       background-color:#EAF6F6;
@@ -23,9 +24,15 @@
     height:2px;
     width:80%;
     line-style:dotted; */
-    iframe {
+iframe {
         border-width: 2px;
         border-style: inset;
-        border-color: initial;
-        border-image: initial;
-    }
+
+  }
+/******************************CLASS SELECTORS**************************/
+.bacon{
+  background-color: green;
+}
+
+
+/******************************ID SELECTORS*****************************/
