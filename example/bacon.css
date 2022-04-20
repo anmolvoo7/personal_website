@@ -1,0 +1,14 @@
+img:hover {
+  background-color: gold;
+}
+/* ------------------------- Class selectors ---------------- */
+.Goood{
+  background-color: green;
+}
+.yuck{
+  background-color: red;
+}
+/* ------------------------- ID selectors ------------------- */
+#heading {
+  background-color: pink;
+}
